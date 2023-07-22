@@ -1,0 +1,1 @@
+print("we are learning python") #sting with single quote is comment
